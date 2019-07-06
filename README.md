@@ -7,10 +7,9 @@ This is a Test repository designed for teaching Git to the UPES TBD students.
 1. Raise a PR here with a file your_name.md the content of the files should be like:
 ```
    Name: Some name
-   Email:email@example.com
-   Branch:OSOS
-   Year:II
-
+   Email:email@stu.upes.ac.in
+   Branch: Big Data
+   Year: III year
 ```
 
 ## Steps to raise the PR
@@ -25,8 +24,8 @@ This is a Test repository designed for teaching Git to the UPES TBD students.
 5. Modify the contents
 6. Stage and commit the changes
 ```https://www.atlassian.com/git/tutorials/saving-changes```
-7. Push your branch
+7. Push your branch to master
 ```https://stackoverflow.com/questions/2765421/how-do-i-push-a-new-local-branch-to-a-remote-git-repository-and-track-it-too```
-8. Create a PR
+8. Create a Pull Request
 ```https://help.github.com/en/articles/creating-a-pull-request-from-a-fork```
 9. Wait for review and Merge ;)
